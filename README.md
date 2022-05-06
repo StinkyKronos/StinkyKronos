@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stinkykronos&label=Profile%20views&color=0e75b6&style=flat" alt="stinkykronos" /> </p>
 
 <div align="center">
-  - 🔭 I’m currently working on a <a href="https://github.com/StinkyKronos/MK-Portfolio"> Front-End Project</a><br> 
+  - 🔭 I’m currently working on a <a href="https://github.com/KERALA-LOST-MALLU-GAMERS/KLMG-DISCORD-BOT">discord bot.</a><br> 
   - 🌱 I’m currently learning Javascript<br>
   - 📫 How to reach me: <a href="mailto:not.at.at.all.hemanth@gmail.com">not.at.all.hemanth@gmail.com</a>
 </div>
