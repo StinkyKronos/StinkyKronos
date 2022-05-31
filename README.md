@@ -28,6 +28,6 @@
 <h2 align="center">Find Me On🔎</h2>
 <div align="center">  
     <a href="https://github.com/StinkyKronos"><img src="https://img.icons8.com/fluency/50/000000/github.png" height="40"></a>
-    <a href="https://www.instagram.com/stinkykronos/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" height="40"></a>
+    <a href="https://www.instagram.com/_stinkykronos_/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" height="40"></a>
     <a href="https://stinkykronos.github.io"><img src="https://img.icons8.com/office/50/000000/cloud.png" height="40"></a>  
 </div>
